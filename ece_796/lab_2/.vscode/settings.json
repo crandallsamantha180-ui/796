@@ -1,0 +1,8 @@
+{
+    "idf.currentSetup": "/Users/samcrandall/esp/v5.4.3/esp-idf",
+    "idf.port": "/dev/tty.usbmodem5AE70725031",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "cmake.sourceDirectory": "/Users/samcrandall/ece_796/lab_2/main"
+}
